@@ -1,2 +1,2 @@
 # QuivR
- GameMaker Twitch API integration Library
+work in progress GameMaker Twitch API integration Library
