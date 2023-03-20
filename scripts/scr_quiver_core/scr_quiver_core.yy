@@ -1,12 +1,11 @@
 {
-  "isDnD": false,
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "scr_quiver_core",
   "isCompatibility": false,
+  "isDnD": false,
   "parent": {
     "name": "QuivR",
     "path": "folders/QuivR.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "scr_quiver_core",
-  "tags": [],
-  "resourceType": "GMScript",
 }

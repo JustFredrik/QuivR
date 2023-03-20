@@ -1,5 +1,4 @@
-
-// Re-validates the token every 45 min
+///@description Re-validates the token every 45 min
 if (authenticated){
 	if ((current_time - last_validated) >= 2700000) { 
 		/* in order to be compliant with Twitch API rules it is required for apps 

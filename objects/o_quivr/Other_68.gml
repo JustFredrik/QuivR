@@ -1,2 +1,2 @@
 
-__quivr_network_async();
+__quivr_network_async_handler();

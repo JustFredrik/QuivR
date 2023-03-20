@@ -7,3 +7,5 @@
 #macro QUIVR_PROFILE_IMG_YORIG		0
 #macro QUIVR_AUTH_KEY_PATH			"\QuivR\cerberus.cfg"
 #macro QUIVR_CONFIG_PATH			"\QuivR\config.cfg"
+#macro QUIVR_OBFUSCATE_TOKEN		true
+#macro QUIVR_IRC_PORT				6667

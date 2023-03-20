@@ -1,2 +1,2 @@
 
-__quivr_http_async();
+__quivr_http_async_handler();
